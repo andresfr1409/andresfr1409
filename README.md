@@ -1,16 +1,38 @@
-### Hi there 👋
+# Mi Perfil
 
-<!--
-**andresfr1409/andresfr1409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    ¡Hola! Soy Andres Rincon👋. Aquí encontrarás información sobre mí y mis habilidades.
+</p>
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un apasionado de la programación y me encanta crear soluciones innovadoras utilizando diferentes tecnologías. Me especializo en desarrollo fullstack utilizando el lenguaje tecnologias como python|django|flask|bootstrap.
+
+![Banner](<BANNER PERFIL PROFESIONAL.png>)
+
+## Habilidades
+
+- Lenguajes de programación: [![Python](https://img.shields.io/badge/Python-amarillo?style=for-the-badge&logo=python&logoColor=blanco&labelColor=101010)]()
+- Tecnologías y herramientas: [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)]()
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
+
+## Proyectos Destacados
+
+Aquí puedes encontrar algunos de mis proyectos destacados:
+
+- [BibliotecaDeCine](https://github.com/andresfr1409/BibliotecaDeCine)
+- [AplicacionRegistroEstudiantes-Django](https://github.com/andresfr1409/AplicacionRegistroEstudiantes-django.git)
+- [AplicacionRegistroEstudiantes-Flask](https://github.com/andresfr1409/AplicacionRegistroEstudiantes-flask.git)
+- [InventarioDeProductos](https://github.com/andresfr1409/InventarioProductos.git)
+
+## Contacto
+
+Puedes contactarme a través de los siguientes medios:
+
+- Correo electrónico: [feliperin14@hotmail.es]
+- LinkedIn: [https://www.linkedin.com/in/andres-rincón/]
+- Numero de contacto: [3012284688]
+
+¡Gracias por visitar mi perfil!
