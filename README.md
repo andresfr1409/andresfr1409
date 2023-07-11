@@ -31,8 +31,8 @@ Aquí puedes encontrar algunos de mis proyectos destacados:
 
 Puedes contactarme a través de los siguientes medios:
 
-- Correo electrónico: [feliperin14@hotmail.es]
-- LinkedIn: [https://www.linkedin.com/in/andres-rincón/]
-- Numero de contacto: [3012284688]
+- Correo electrónico: feliperin14@hotmail.es
+- LinkedIn: https://www.linkedin.com/in/andres-rincón/
+- Numero de contacto: 3012284688
 
 ¡Gracias por visitar mi perfil!
