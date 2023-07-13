@@ -27,6 +27,7 @@ Aquí puedes encontrar algunos de mis proyectos destacados:
 - [AplicacionRegistroEstudiantes-Django](https://github.com/andresfr1409/AplicacionRegistroEstudiantes-django.git)
 - [AplicacionRegistroEstudiantes-Flask](https://github.com/andresfr1409/AplicacionRegistroEstudiantes-flask.git)
 - [InventarioDeProductos](https://github.com/andresfr1409/InventarioProductos.git)
+- [BookFinderApp](https://github.com/andresfr1409/BookFinderApp.git)
 
 ## Contacto
 
