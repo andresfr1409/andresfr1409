@@ -28,7 +28,7 @@ Aquí puedes encontrar algunos de mis proyectos destacados:
 - [AplicacionRegistroEstudiantes-Flask](https://github.com/andresfr1409/AplicacionRegistroEstudiantes-flask.git)
 - [InventarioDeProductos](https://github.com/andresfr1409/InventarioProductos.git)
 - [BookFinderApp](https://github.com/andresfr1409/BookFinderApp.git)
-
+- [MusicPlayerApp](https://github.com/andresfr1409/Music-Player-App.git)
 ## Contacto
 
 Puedes contactarme a través de los siguientes medios:
