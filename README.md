@@ -1,4 +1,6 @@
-# Mi Perfil
+<h1 align="center">
+  <b>Mi perfil</b>
+</h1>
 
 <p align="center">
     ¡Hola! Soy Andres Rincon👋. Aquí encontrarás información sobre mí y mis habilidades.
