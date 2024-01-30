@@ -8,7 +8,7 @@
 
 ## Sobre mí
 
-Soy un apasionado de la programación y me encanta crear soluciones innovadoras utilizando diferentes tecnologías. Me especializo en desarrollo fullstack utilizando tecnologias como python|django|flask||HTML5|CSS3|bootstrap|MySQL.
+Soy un apasionado de la programación y me encanta crear soluciones innovadoras utilizando diferentes tecnologías. Me especializo en desarrollo fullstack especialmente en el Backend utilizando tecnologias como python|django|flask||HTML5|CSS3|bootstrap|MySQL.
 
 ![Banner](<BANNER PERFIL PROFESIONAL.png>)
 
