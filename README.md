@@ -32,7 +32,6 @@ Aquí puedes encontrar algunos de mis proyectos destacados:
 - [BibliotecaDeCine](https://github.com/andresfr1409/BibliotecaDeCine)
 - [AplicacionRegistroEstudiantes-Django](https://github.com/andresfr1409/AplicacionRegistroEstudiantes-django.git)
 - [AplicacionRegistroEstudiantes-Flask](https://github.com/andresfr1409/AplicacionRegistroEstudiantes-flask.git)
-- [InventarioDeProductos](https://github.com/andresfr1409/InventarioProductos.git)
 - [BookFinderApp](https://github.com/andresfr1409/BookFinderApp.git)
 - [MusicPlayerApp](https://github.com/andresfr1409/Music-Player-App.git)
 - [ClonYoutubeApp](https://github.com/andresfr1409/ClonYoutubeApp.git)
